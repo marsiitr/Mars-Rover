@@ -11,5 +11,21 @@ The Mars rover project helps us to learn the mechanisms and functioning of an ac
 
 It gives us an insight on the **Rocker Bogie** suspension system which facilitates the best possible movement of the Rover on challenging terrains. It also compelled us to think about a mechainism for a compact and fully functioning robotic arm which would be used to collect sample data.
 
-The project also sheds light on the various sensors used by the rover for data collection and analysis as well as for its navigation. Lidar and PIXL are the senosrs used by us in the rover. 
+The project also sheds light on the various sensors used by the rover for data collection and analysis as well as for its navigation. **Lidar** and **PIXL** are the senosrs used by us in the rover. 
+
+The project also helped us learn detailed CAD modelling using Solidworks.
+
+## Mechanical aspect of design
+
+### Mechanical components:
+    
+
+## Team members
+1. Avinash Singh
+2. Harikrishnan PB
+3. Pratyush Ojha
+4. Sambit Prabhu
+
+## Mentors:
+1. Vansh Goyal
 
