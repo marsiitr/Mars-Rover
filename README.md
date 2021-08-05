@@ -81,6 +81,10 @@ A 45kg-cm torque stepper motor is used for the horizontal rotation of the mast c
 3. The rover consists of a camera to take 3D images and high definition videos for mapping the terrain as well as analyzing it scientifically.
 4. It can also be used to analyze the collected samples using the various sensors present on the rover
 
+## Limitations
+1. Speed of the rover is very low even on the flat terrains.
+2. Battery life of the rover is short due charging capacity is less.
+
 
 
 ## Team members
@@ -91,4 +95,18 @@ A 45kg-cm torque stepper motor is used for the horizontal rotation of the mast c
 
 ## Mentors:
 1. Vansh Goyal
+
+## Reference links
+**Youtube-**
+How I build mars rover replica- https://www.youtube.com/watch?v=NOZZMsMAGh0&t=142s
+[Mars Rover 2020 Perseverance] Body Assembly- https://www.youtube.com/watch?v=McydwwR8xu4
+JPL Mars Science Laboratory The Curiosity Rover- https://www.youtube.com/watch?v=007SnaUxi40
+
+**Research links-**
+https://www.hindawi.com/journals/ijae/2016/5181097/
+https://mars.nasa.gov/mars2020/spacecraft/rover/
+https://llis.nasa.gov/lesson/11501
+http://robotics.estec.esa.int/ASTRA/Astra2004/Papers/astra2004_D-05.pdf
+https://teamares.sserd.org/project_files/Ares_MCEV_Report.pdf
+
 
