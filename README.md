@@ -18,7 +18,7 @@ The project also helped us learn detailed CAD modelling using Solidworks.
 ## Mechanical aspect of design
  
 ### Chassis
-    The main body of the rover is built up using 20*20 sq.mm aluminium T slots as frames. It consists of a top and a bottom frame (each of 382 * 283 mm T slots) connected using a metal connector where the rocker bogie would be attached. Each rectangular frame is made up using 2 pipes of each length along with 2 extra 283mm pipes attached in between the frame to give it extra stability.
+The main body of the rover is built up using 20*20 sq.mm aluminium T slots as frames. It consists of a top and a bottom frame (each of 382 * 283 mm T slots) connected using a metal connector where the rocker bogie would be attached. Each rectangular frame is made up using 2 pipes of each length along with 2 extra 283mm pipes attached in between the frame to give it extra stability.
 
 ![Main frame](C:\Users\Pratyush\Desktop\MARS\IMAGES)
 
