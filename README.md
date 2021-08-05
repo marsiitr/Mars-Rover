@@ -98,15 +98,18 @@ A 45kg-cm torque stepper motor is used for the horizontal rotation of the mast c
 
 ## Reference links
 **Youtube-**
-How I build mars rover replica- https://www.youtube.com/watch?v=NOZZMsMAGh0&t=142s
-[Mars Rover 2020 Perseverance] Body Assembly- https://www.youtube.com/watch?v=McydwwR8xu4
-JPL Mars Science Laboratory The Curiosity Rover- https://www.youtube.com/watch?v=007SnaUxi40
+How I build mars rover replica- https://www.youtube.com/watch?v=NOZZMsMAGh0&t=142s  
+
+[Mars Rover 2020 Perseverance] Body Assembly- https://www.youtube.com/watch?v=McydwwR8xu4  
+
+JPL Mars Science Laboratory The Curiosity Rover- https://www.youtube.com/watch?v=007SnaUxi40  
+
 
 **Research links-**
-https://www.hindawi.com/journals/ijae/2016/5181097/
-https://mars.nasa.gov/mars2020/spacecraft/rover/
-https://llis.nasa.gov/lesson/11501
-http://robotics.estec.esa.int/ASTRA/Astra2004/Papers/astra2004_D-05.pdf
-https://teamares.sserd.org/project_files/Ares_MCEV_Report.pdf
+https://www.hindawi.com/journals/ijae/2016/5181097/  
+https://mars.nasa.gov/mars2020/spacecraft/rover/  
+https://llis.nasa.gov/lesson/11501  
+http://robotics.estec.esa.int/ASTRA/Astra2004/Papers/astra2004_D-05.pdf  
+https://teamares.sserd.org/project_files/Ares_MCEV_Report.pdf  
 
 
