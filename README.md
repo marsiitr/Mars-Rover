@@ -56,23 +56,23 @@ The bottom part of the mast contains the stepper motor which is fixed to the bod
 ## Electronics aspects of design
 
 ### Sensors
-1. LIDAR sensor
+1. **LIDAR sensor:**
 Lidar is an acronym for “light detection and ranging.” It is sometimes called “laser scanning” or “3D scanning.” The technology uses eye-safe laser beams to create a 3D representation of the surveyed environment. This helps in navigation as well as analyzing the surrounding terrains and thus aids in the research part of the rover mission.
 
-2. Mast Cam
+2. **Mast Cam:**
 The Mast Cam mounted over the chassis is used to get high definition videos and 3D-images of the surroundings which can be used for research purposes. It also has high zoom focus which can help in detailed examination of distant objects.
 
-3.  Robotic arm camera
+3. **Robotic arm camera:**
 A small camera is mounted on of the three modules of the robotic arm to assist in its motion and guide the drill to the required position. This makes teh collection of data sample more precise and accurate.
 
 ### Actuators
-1. DC motors
+1. **DC motors:**
 Six 12V DC motors with 20 RPM output are to be attached to the wheels which causes the locomotion of the Rover. The are placed in a holder attached to the Rocker Bogie and transmit torque to the wheels with the help of a small 3D printed shaft joining both these parts.
 
-2. Servo Motor
+2. **Servo Motor:**
 Four digital servo motors with 25kg cm torque output and operating voltage of 4.8-6.8 volts are used for steering the rover. The are attached to the rocker bogie with the help of a 3D printed holder connected on top of the dc motor holder. It enables the turning of front and rear pair of wheels and thus helps in turning the rover.
 
-3. Stepper motor
+3. **Stepper motor:**
 A 45kg-cm torque stepper motor is used for the horizontal rotation of the mast cam. The shaft of the stepper motor is attached to a threaded rod with a shaft coupler which transfers the rotation to the top part of the mast.
 
 ## Applications
