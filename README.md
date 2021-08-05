@@ -2,7 +2,7 @@
 Open Projects 2021
 
 ## Abstract
-The **Mars Rover** is a small vehicle built to cover mars like terrains. It is made to cover ueneven surfaces with ease and further to collect and analyze data. It has a robotic arm for data collection process and contains various sensors to recieve and record the data. It also has cameras and lidar sensors for visual data interpretation and navigation.
+The **Mars Rover** is a small vehicle built to cover mars like uneven terrains. It is made to cover ueneven surfaces with ease and further to collect and analyze data. It has a robotic arm for data collection process and contains various sensors to recieve and record the data. It also has cameras, lidar and various other sensors for visual data interpretation and navigation.
 
 ![Mars rover](C:\Users\Pratyush\Desktop\MARS\IMAGES)
 
@@ -16,9 +16,11 @@ The project also sheds light on the various sensors used by the rover for data c
 The project also helped us learn detailed CAD modelling using Solidworks.
 
 ## Mechanical aspect of design
+ 
+### Chassis
+    The main body of the rover is built up using 20*20 sq.mm aluminium T slots as frames. It consists of a top and a bottom frame (each of 382 * 283 mm) connected using a metal connector where the rocker bogie would be attached. Each rectangular frame is made up using 2 pipes of each length along with 2 extra 283mm pipes attached in between t he frame to give it extra stability.
 
-### Mechanical components:
-    
+![Main frame](C:\Users\Pratyush\Desktop\MARS\IMAGES)
 
 ## Team members
 1. Avinash Singh
