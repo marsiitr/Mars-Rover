@@ -4,7 +4,7 @@ Open Projects 2021
 ## Abstract
 The **Mars Rover** is a small vehicle built to cover mars like uneven terrains. It is made to cover ueneven surfaces with ease and further to collect and analyze data. It has a robotic arm for data collection process and contains various sensors to recieve and record the data. It also has cameras, lidar and various other sensors for visual data interpretation and navigation.
 
-![Mars rover]("C:\Users\Pratyush\Desktop\MARS\IMAGES\MarsRover.JPG")
+![Mars rover](E:\Mars-Rover GitHub\Images and videos\MarsRover.jpg)
 
 ## Motivation
 The Mars rover project helps us to learn the mechanisms and functioning of an actual rover sent to Mars under various space programmes. 
@@ -83,9 +83,10 @@ A 45kg-cm torque stepper motor is used for the horizontal rotation of the mast c
 
 ## Limitations
 1. Speed of the rover is very low even on the flat terrains.
-2. Battery life of the rover is short due charging capacity is less.
+2. Battery life of the rover is short due to less charging capacity.
 
-
+## Future Improvement
+1. Solar
 
 ## Team members
 1. Avinash Singh
