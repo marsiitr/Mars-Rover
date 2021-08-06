@@ -21,10 +21,13 @@ The project also helped us learn detailed CAD modelling using Solidworks.
 The main body of the rover is built up using 20*20 sq.mm aluminium T slots as frames. It consists of a top and a bottom frame (each of 382 * 283 mm T slots) connected using a metal connector where the rocker bogie would be attached. Each rectangular frame is made up using 2 different pipes of length 382mm and 283 mm along with 2 extra 283mm pipes attached in between the frame to give it extra stability and support. It is then covered with ABS plastic covers which are attached to the frame using bolts and nuts.
 
 
-![Main frame](Images%20and%20Videos/Images/Chassis%20Mainframe.png)
+![Chassis](Images%20and%20Videos/Images/Chassis%20Mainframe.png)
 
 ### Rocker Bogie
 The Rocker Bogie is a six wheeled special suspension system used by the rover to ensure efficient motion on uneven terrains. It helps the mars rovers to overcome the rough terrains while maintaining stability by ensuring that all the wheel remain in contact with the ground. Each side of the suspension system is made up using 4 pipes of lengths 200, 170, 140 and 122mm(each of 314mm^2) which are connected using 3D printed connectors that facilitate the required motion of the suspension system. Both sides of the syspension are connected with the help of a differential bar placed on main frame of the rover. The middle of the bar is connected to the body with a pivot and the two ends are connected to the two rockers through some short links. If you hold the model rover body steady in midair and tilt one rocker up, one end of the bar will go back, the other end will go forward, and the other rocker will tilt down, thus maitaining the balance of the rover. 
+
+
+![RB](Images%20and%20Videos/Images/Rocker%20Bogie.png)
 
 ### Robotic Arm
 The robotic arm is equipped with three modules: a drill, a camera and a sample collector, installed on a rotating disc.
@@ -45,6 +48,7 @@ The camera is used all the time for navigation of the arm as well as scanning of
 Servo motors are used for precise actuation.
 An air compressor/pump embedded in the rover body is used to create the necessary pressure differential to operate the pneumatic/hydraulic cylinder.
 
+![Robotic arm](Images%20and%20Videos/Images/Robotic%20Arm.JPG)
 ### Wheels
 The wheel can be 3D by more flexible materials like thermoplastic elastomers which has high impact strength and
 
@@ -52,12 +56,16 @@ The wheel can be 3D by more flexible materials like thermoplastic elastomers whi
 ### Mast Cam
 The bottom part of the mast contains the stepper motor which is fixed to the body. A shaft extends to the upper part of the mast which can rotate horizontally and lies on a cylindrical thrust bearing. The camera is attached to the mast with the servo motor for vertical rotation.
 
+![Mast Cam](Images%20and%20Videos/Images/Mast%20cam.png)
+
 
 ## Electronics aspects of design
 
 ### Sensors
 1. **LIDAR sensor:**
 Lidar is an acronym for “light detection and ranging.” It is sometimes called “laser scanning” or “3D scanning.” The technology uses eye-safe laser beams to create a 3D representation of the surveyed environment. This helps in navigation as well as analyzing the surrounding terrains and thus aids in the research part of the rover mission.
+
+![Lidar sensor](Images%20and%20Videos/Images/LIDAR%20sensor.png)
 
 2. **Mast Cam:**
 The Mast Cam mounted over the chassis is used to get high definition videos and 3D-images of the surroundings which can be used for research purposes. It also has high zoom focus which can help in detailed examination of distant objects.
