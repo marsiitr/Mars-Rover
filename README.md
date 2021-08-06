@@ -4,7 +4,7 @@ Open Projects 2021
 ## Abstract
 The **Mars Rover** is a small vehicle built to cover mars like uneven terrains. It is made to cover ueneven surfaces with ease and further to collect and analyze data. It has a robotic arm for data collection process and contains various sensors to recieve and record the data. It also has cameras, lidar and various other sensors for visual data interpretation and navigation.
 
-![Mars rover](E:\Mars-Rover-GitHub\Images-and-videos\MarsRover.jpg)
+![Mars rover](Images%20and%20Videos/Images/MarsRover.JPG)
 
 ## Motivation
 The Mars rover project helps us to learn the mechanisms and functioning of an actual rover sent to Mars under various space programmes. 
@@ -21,7 +21,7 @@ The project also helped us learn detailed CAD modelling using Solidworks.
 The main body of the rover is built up using 20*20 sq.mm aluminium T slots as frames. It consists of a top and a bottom frame (each of 382 * 283 mm T slots) connected using a metal connector where the rocker bogie would be attached. Each rectangular frame is made up using 2 different pipes of length 382mm and 283 mm along with 2 extra 283mm pipes attached in between the frame to give it extra stability and support. It is then covered with ABS plastic covers which are attached to the frame using bolts and nuts.
 
 
-![Main frame](C:\Users\Pratyush\Desktop\MARS\IMAGES/MarsRover.jpg)
+![Main frame](Images%20and%20Videos/Images/Chassis%20Mainframe.PNG)
 
 ### Rocker Bogie
 The Rocker Bogie is a six wheeled special suspension system used by the rover to ensure efficient motion on uneven terrains. It helps the mars rovers to overcome the rough terrains while maintaining stability by ensuring that all the wheel remain in contact with the ground. Each side of the suspension system is made up using 4 pipes of lengths 200, 170, 140 and 122mm(each of 314mm^2) which are connected using 3D printed connectors that facilitate the required motion of the suspension system. Both sides of the syspension are connected with the help of a differential bar placed on main frame of the rover. The middle of the bar is connected to the body with a pivot and the two ends are connected to the two rockers through some short links. If you hold the model rover body steady in midair and tilt one rocker up, one end of the bar will go back, the other end will go forward, and the other rocker will tilt down, thus maitaining the balance of the rover. 
