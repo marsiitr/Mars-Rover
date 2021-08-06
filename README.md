@@ -86,7 +86,9 @@ A 45kg-cm torque stepper motor is used for the horizontal rotation of the mast c
 2. Battery life of the rover is short due to less charging capacity.
 
 ## Future Improvement
-1. Solar
+1. Better materials could be used instead of 3D printed plastic.  
+2. Simulating the model in Gazebo and ROS.  
+
 
 ## Team members
 1. Avinash Singh
