@@ -59,6 +59,10 @@ The bottom part of the mast contains the stepper motor which is fixed to the bod
 ![Mast Cam](Images%20and%20Videos/Images/Mast%20cam.png)
 
 
+
+**IN CASE OF DISCREPANCY IN DOWNLOADING THE PARTS, KINDLY CHECK THE GIVEN DRIVE LINK:** https://drive.google.com/drive/folders/1dSjtfLlo9qPeHwJP8TGqEmEa5Fyg8wRc?usp=sharing
+
+
 ## Electronics aspects of design
 
 ### Sensors
