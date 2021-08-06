@@ -4,7 +4,7 @@ Open Projects 2021
 ## Abstract
 The **Mars Rover** is a small vehicle built to cover mars like uneven terrains. It is made to cover ueneven surfaces with ease and further to collect and analyze data. It has a robotic arm for data collection process and contains various sensors to recieve and record the data. It also has cameras, lidar and various other sensors for visual data interpretation and navigation.
 
-![Mars rover](E:\Mars-Rover GitHub\Images and videos)
+![Mars rover](E:\Mars-Rover-GitHub\Images-and-videos\MarsRover.jpg)
 
 ## Motivation
 The Mars rover project helps us to learn the mechanisms and functioning of an actual rover sent to Mars under various space programmes. 
