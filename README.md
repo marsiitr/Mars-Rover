@@ -87,6 +87,10 @@ Four digital servo motors with 25kg cm torque output and operating voltage of 4.
 3. **Stepper motor:**
 A 45kg-cm torque stepper motor is used for the horizontal rotation of the mast cam. The shaft of the stepper motor is attached to a threaded rod with a shaft coupler which transfers the rotation to the top part of the mast.
 
+## Research part
+We did an extensive research on the previously sent Mars Rovers and extracted details about the different components of the rover. We looked upon the structure and functioning of the parts and decided accordingly what to put in our rover. Although it was not practical to use all senosors and parts used by high end mars missions, we added whatever was possible in our reach to aid the research work of the rover.  
+**This is the link of our initial research doc:** https://docs.google.com/document/d/1-jrgd7fFMnukzN-lmV8PeAjKU0p7QLTJImEPwY9DrF8/edit
+
 ## Applications
 1. The rover can be used to research the areas with highly uneven terrains and surfaces with ease due to its Rocker bogie suspension system.
 2. It is equipped with a robotic arm and drill which enables sample data collection and storage.
