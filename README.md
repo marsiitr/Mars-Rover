@@ -2,41 +2,49 @@
 Open Projects 2021
 
 ## Abstract
-The **Mars Rover** is a small vehicle built to cover mars like uneven terrains. It is made to cover ueneven surfaces with ease and further to collect and analyze data. It has a robotic arm for data collection process and contains various sensors to recieve and record the data. It also has cameras, lidar and various other sensors for visual data interpretation and navigation.
+<p align="justify">
+ The <b>Mars Rover</b> is a small vehicle built to cover mars like uneven terrains. It is made to cover ueneven surfaces with ease and further to collect and analyze data. It has a robotic arm for data collection process and contains various sensors to recieve and record the data. It also has cameras, lidar and various other sensors for visual data interpretation and navigation.
+</p>
 
 ![Mars rover](Images%20and%20Videos/Images/BEST%20RENDER!.jpg)
 
 ## Motivation
 The Mars rover project helps us to learn the mechanisms and functioning of an actual rover sent to Mars under various space programmes. 
 
-It gives us an insight on the **Rocker Bogie** suspension system which facilitates the best possible movement of the Rover on challenging terrains. It also compelled us to think about a mechainism for a compact and fully functioning robotic arm which would be used to collect sample data.
+<p align="justify">
+ It gives us an insight on the <b>Rocker Bogie</b> suspension system which facilitates the best possible movement of the Rover on challenging terrains. It also compelled us to think about a mechainism for a compact and fully functioning robotic arm which would be used to collect sample data.
+</p>
 
-The project also sheds light on the various sensors used by the rover for data collection and analysis as well as for its navigation. **Lidar** and **PIXL** are the senosrs used by us in the rover. 
+<p align="justify">
+The project also sheds light on the various sensors used by the rover for data collection and analysis as well as for its navigation. <b>Lidar</b> and <b>PIXL</b> are the senosrs used by us in the rover. 
+</p>
 
 The project also helped us learn detailed CAD modelling using Solidworks.
 
 ## Mechanical aspects of design
  
 ### Chassis
+<p align="justify">
 The main body of the rover is built up using 20*20 sq.mm aluminium T slots as frames. It consists of a top and a bottom frame (each of 382 * 283 mm T slots) connected using a metal connector where the rocker bogie would be attached. Each rectangular frame is made up using 2 different pipes of length 382mm and 283 mm along with 2 extra 283mm pipes attached in between the frame to give it extra stability and support. It is then covered with ABS plastic covers which are attached to the frame using bolts and nuts.
-
+</p>
 
 ![Chassis](Images%20and%20Videos/Images/Chassis%20Mainframe.png)
 
 ### Rocker Bogie
+<p align="justify">
 The Rocker Bogie is a six wheeled special suspension system used by the rover to ensure efficient motion on uneven terrains. It helps the mars rovers to overcome the rough terrains while maintaining stability by ensuring that all the wheel remain in contact with the ground. Each side of the suspension system is made up using 4 pipes of lengths 200, 170, 140 and 122mm(each of 314mm^2) which are connected using 3D printed connectors that facilitate the required motion of the suspension system. Both sides of the syspension are connected with the help of a differential bar placed on main frame of the rover. The middle of the bar is connected to the body with a pivot and the two ends are connected to the two rockers through some short links. If you hold the model rover body steady in midair and tilt one rocker up, one end of the bar will go back, the other end will go forward, and the other rocker will tilt down, thus maitaining the balance of the rover. 
-
+</p>
 
 ![RB](Images%20and%20Videos/Images/Rocker%20Bogie.png)
 
 ### Robotic Arm
 The robotic arm is equipped with three modules: a drill, a camera and a sample collector, installed on a rotating disc.
 
-It has 4 degrees of freedom(DOFs) as follows:
-1.The base can be rotated 360 degrees.
-2.The rotational joint can be rotated 180 degrees (range is limited by the counterweight)
-3.The main link contains a hydraulic/pneumatic cylinder which is used to extend/shorten the length of the link. The length of the link has a range of 33-43 cm. 
-4.The rotating disc is used to engage either the drill or the sample collector with the Martian surface at a time.
+It has 4 degrees of freedom(DOFs) as follows:  
+1.The base can be rotated 360 degrees.  
+2.The rotational joint can be rotated 180 degrees (range is limited by the counterweight)  
+3.The main link contains a hydraulic/pneumatic cylinder which is used to extend/shorten the length of the link. The length of the link has a range of 33-43 cm.   
+4.The rotating disc is used to engage either the drill or the sample collector with the Martian surface at a time.  
 
 Thus, in a way, we have a handle on the three polar coordinates:
 1. The base varies the planar angle 'theta'
@@ -44,9 +52,11 @@ Thus, in a way, we have a handle on the three polar coordinates:
 3. Hydraulic/pneumatic cylinder varies radial distance 'r'
 This makes inverse kinematics relatively simpler.
  
+<p align="justify">
 The camera is used all the time for navigation of the arm as well as scanning of the martian surface
 Servo motors are used for precise actuation.
 An air compressor/pump embedded in the rover body is used to create the necessary pressure differential to operate the pneumatic/hydraulic cylinder.
+</p>
 
 ![Robotic arm](Images%20and%20Videos/Images/Robotic%20Arm.JPG)
 ### Wheels
@@ -54,12 +64,15 @@ The wheel can be 3D by more flexible materials like thermoplastic elastomers whi
 
 
 ### Mast Cam
+<p align="justify">
 The bottom part of the mast contains the stepper motor which is fixed to the body. A shaft extends to the upper part of the mast which can rotate horizontally and lies on a cylindrical thrust bearing. The camera is attached to the mast with the servo motor for vertical rotation.
+</p>
 
-![Mast Cam](Images%20and%20Videos/Images/Mast%20cam.png)
+![Mast Cam](Images%20and%20Videos/Images/Mast%20cam.png)  
 
 
 
+## CAD PARTS:
 **IN CASE OF DISCREPANCY IN DOWNLOADING THE PARTS, KINDLY CHECK THE GIVEN DRIVE LINK:** https://drive.google.com/drive/folders/1dSjtfLlo9qPeHwJP8TGqEmEa5Fyg8wRc?usp=sharing
 
 
@@ -68,6 +81,7 @@ The bottom part of the mast contains the stepper motor which is fixed to the bod
 ### Sensors
 1. **LIDAR sensor:**
 Lidar is an acronym for “light detection and ranging.” It is sometimes called “laser scanning” or “3D scanning.” The technology uses eye-safe laser beams to create a 3D representation of the surveyed environment. This helps in navigation as well as analyzing the surrounding terrains and thus aids in the research part of the rover mission.
+
 
 ![Lidar sensor](Images%20and%20Videos/Images/LIDAR%20sensor.png)
 
@@ -79,16 +93,25 @@ A small camera is mounted on of the three modules of the robotic arm to assist i
 
 ### Actuators
 1. **DC motors:**
+<p align="justify">
 Six 12V DC motors with 20 RPM output are to be attached to the wheels which causes the locomotion of the Rover. The are placed in a holder attached to the Rocker Bogie and transmit torque to the wheels with the help of a small 3D printed shaft joining both these parts.
+</p>
 
 2. **Servo Motor:**
+<p align="justify">
 Four digital servo motors with 25kg cm torque output and operating voltage of 4.8-6.8 volts are used for steering the rover. The are attached to the rocker bogie with the help of a 3D printed holder connected on top of the dc motor holder. It enables the turning of front and rear pair of wheels and thus helps in turning the rover.
+</p>
 
 3. **Stepper motor:**
+<p align="justify">
 A 45kg-cm torque stepper motor is used for the horizontal rotation of the mast cam. The shaft of the stepper motor is attached to a threaded rod with a shaft coupler which transfers the rotation to the top part of the mast.
+</p>
 
 ## Research part
+<p align="justify">
 We did an extensive research on the previously sent Mars Rovers and extracted details about the different components of the rover. We looked upon the structure and functioning of the parts and decided accordingly what to put in our rover. Although it was not practical to use all senosors and parts used by high end mars missions, we added whatever was possible in our reach to aid the research work of the rover.  
+</p>
+
 **This is the link of our initial research doc:** https://docs.google.com/document/d/1-jrgd7fFMnukzN-lmV8PeAjKU0p7QLTJImEPwY9DrF8/edit
 
 ## Applications
@@ -106,14 +129,14 @@ We did an extensive research on the previously sent Mars Rovers and extracted de
 2. Simulating the model in Gazebo and ROS.  
 
 
-## Team members
-1. Avinash Singh
-2. Harikrishnan PB
-3. Pratyush Ojha
-4. Sambit Prabhu
+## Team members (with GitHub IDs)
+1. Avinash Singh- <a href="https://github.com/matbot1">matbot1</a>
+2. Harikrishnan PB- <a href="https://github.com/MurkeyCube">MurkeyCube</a>
+3. Pratyush Ojha- <a href="https://github.com/Pratyush-932">Pratyush-932</a>
+4. Sambit Prabhu- <a href="https://github.com/SambitPrabhu">SambitPrabhu</a>
 
 ## Mentors:
-1. Vansh Goyal
+1. Vansh Goyal- <a href="https://github.com/vanshgoyal">vanshgoyal</a>
 
 ## Reference links
 **Youtube-**  
