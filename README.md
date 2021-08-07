@@ -1,5 +1,6 @@
 # Mars-Rover
-Open Projects 2021
+
+## Open Projects 2021   
 
 ## Abstract
 <p align="justify">
@@ -130,26 +131,26 @@ We did an extensive research on the previously sent Mars Rovers and extracted de
 
 
 ## Team members (with GitHub IDs)
-1. Avinash Singh- <a href="https://github.com/matbot1">matbot1</a>
-2. Harikrishnan PB- <a href="https://github.com/MurkeyCube">MurkeyCube</a>
-3. Pratyush Ojha- <a href="https://github.com/Pratyush-932">Pratyush-932</a>
-4. Sambit Prabhu- <a href="https://github.com/SambitPrabhu">SambitPrabhu</a>
+1. <a href="https://github.com/matbot1">Avinash Singh</a>
+2. <a href="https://github.com/MurkeyCube">Harikrishnan PB</a>
+3. <a href="https://github.com/Pratyush-932">Pratyush Ojha</a>
+4. <a href="https://github.com/SambitPrabhu">Sambit Prabhu</a>
 
 ## Mentors:
-1. Vansh Goyal- <a href="https://github.com/vanshgoyal">vanshgoyal</a>
+1.<a href="https://github.com/vanshgoyal">Vansh Goyal</a>
 
 ## Reference links
 **Youtube-**  
-How I build mars rover replica- https://www.youtube.com/watch?v=NOZZMsMAGh0&t=142s  
-[Mars Rover 2020 Perseverance] Body Assembly- https://www.youtube.com/watch?v=McydwwR8xu4  
-JPL Mars Science Laboratory The Curiosity Rover- https://www.youtube.com/watch?v=007SnaUxi40  
+<a href="https://www.youtube.com/watch?v=NOZZMsMAGh0&t=142s"> How I build mars rover replica </a>   
+<a href="https://www.youtube.com/watch?v=McydwwR8xu4">[Mars Rover 2020 Perseverance] Body Assembly</a>  
+<a href="https://www.youtube.com/watch?v=007SnaUxi40">JPL Mars Science Laboratory The Curiosity Rover</a>   
 
 
-**Research links-**
-https://www.hindawi.com/journals/ijae/2016/5181097/  
-https://mars.nasa.gov/mars2020/spacecraft/rover/  
-https://llis.nasa.gov/lesson/11501  
-http://robotics.estec.esa.int/ASTRA/Astra2004/Papers/astra2004_D-05.pdf  
-https://teamares.sserd.org/project_files/Ares_MCEV_Report.pdf  
+**Research links-**  
+<a href="https://www.hindawi.com/journals/ijae/2016/5181097/"> Rocker Bogie Research </a>   
+<a href="https://mars.nasa.gov/mars2020/spacecraft/rover/"> NASA Mars Rover (Perseverance) </a>   
+<a href="https://llis.nasa.gov/lesson/11501">Actuator Design process for curiosity</a>     
+<a href="http://robotics.estec.esa.int/ASTRA/Astra2004/Papers/astra2004_D-05.pdf">Types of Rocker Bogies</a>  
+<a href="https://teamares.sserd.org/project_files/Ares_MCEV_Report.pdf"> Research paper for design of crew exploration vehicle on Mars</a>  
 
 
