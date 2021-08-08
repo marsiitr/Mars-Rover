@@ -7,7 +7,10 @@
  The <b>Mars Rover</b> is a small vehicle built to cover mars like uneven terrains. It is made to cover ueneven surfaces with ease and further to collect and analyze data. It has a robotic arm for data collection process and contains various sensors to recieve and record the data. It also has cameras, lidar and various other sensors for visual data interpretation and navigation.
 </p>
 
-![Mars rover](Images%20and%20Videos/Images/BEST%20RENDER!.jpg)
+<p align="center">
+<img src="Images%20and%20Videos/Images/BEST%20RENDER!.jpg" alt="Mars Rover">
+ <i>Mars Rover</i>
+</p>
 
 ## Motivation
 The Mars rover project helps us to learn the mechanisms and functioning of an actual rover sent to Mars under various space programmes. 
@@ -29,14 +32,20 @@ The project also helped us learn detailed CAD modelling using Solidworks.
 The main body of the rover is built up using 20*20 sq.mm aluminium T slots as frames. It consists of a top and a bottom frame (each of 382 * 283 mm T slots) connected using a metal connector where the rocker bogie would be attached. Each rectangular frame is made up using 2 different pipes of length 382mm and 283 mm along with 2 extra 283mm pipes attached in between the frame to give it extra stability and support. It is then covered with ABS plastic covers which are attached to the frame using bolts and nuts.
 </p>
 
-![Chassis](Images%20and%20Videos/Images/Chassis%20Mainframe.png)
+<p align="center">  
+<img src="Images%20and%20Videos/Images/Chassis%20Mainframe.png" alt="Chassis">    
+<i>Chassis</i>    
+</p>  
 
-### Rocker Bogie
+### Rocker Bogie  
 <p align="justify">
 The Rocker Bogie is a six wheeled special suspension system used by the rover to ensure efficient motion on uneven terrains. It helps the mars rovers to overcome the rough terrains while maintaining stability by ensuring that all the wheel remain in contact with the ground. Each side of the suspension system is made up using 4 pipes of lengths 200, 170, 140 and 122mm(each of 314mm^2) which are connected using 3D printed connectors that facilitate the required motion of the suspension system. Both sides of the syspension are connected with the help of a differential bar placed on main frame of the rover. The middle of the bar is connected to the body with a pivot and the two ends are connected to the two rockers through some short links. If you hold the model rover body steady in midair and tilt one rocker up, one end of the bar will go back, the other end will go forward, and the other rocker will tilt down, thus maitaining the balance of the rover. 
 </p>
 
-![RB](Images%20and%20Videos/Images/Rocker%20Bogie.png)
+<p align="center">
+<img src="Images%20and%20Videos/Images/Rocker%20Bogie.png" alt="Rocker Bogie">
+ <i>Rocker Bogie</i>
+</p>
 
 ### Robotic Arm
 The robotic arm is equipped with three modules: a drill, a camera and a sample collector, installed on a rotating disc.
@@ -59,7 +68,11 @@ Servo motors are used for precise actuation.
 An air compressor/pump embedded in the rover body is used to create the necessary pressure differential to operate the pneumatic/hydraulic cylinder.
 </p>
 
-![Robotic arm](Images%20and%20Videos/Images/Robotic%20Arm.JPG)
+<p align="center">
+<img src="Images%20and%20Videos/Images/Robotic%20Arm.JPG" alt="Robotic Arm">  
+<i>Robotic Arm</i>
+</p>
+                                                                                                                                                 
 ### Wheels
 The wheel can be 3D by more flexible materials like thermoplastic elastomers which has high impact strength and
 
@@ -69,9 +82,10 @@ The wheel can be 3D by more flexible materials like thermoplastic elastomers whi
 The bottom part of the mast contains the stepper motor which is fixed to the body. A shaft extends to the upper part of the mast which can rotate horizontally and lies on a cylindrical thrust bearing. The camera is attached to the mast with the servo motor for vertical rotation.
 </p>
 
-![Mast Cam](Images%20and%20Videos/Images/Mast%20cam.png)  
-
-
+<p align="center">
+<img src="Images%20and%20Videos/Images/Mast%20cam.png" alt="Mast Cam")
+<i>Mast Cam</i>
+</p>
 
 ## CAD PARTS:
 **IN CASE OF DISCREPANCY IN DOWNLOADING THE PARTS, KINDLY CHECK THE GIVEN DRIVE LINK:** https://drive.google.com/drive/folders/1dSjtfLlo9qPeHwJP8TGqEmEa5Fyg8wRc?usp=sharing
@@ -81,16 +95,24 @@ The bottom part of the mast contains the stepper motor which is fixed to the bod
 
 ### Sensors
 1. **LIDAR sensor:**
+<p align="justify">
 Lidar is an acronym for “light detection and ranging.” It is sometimes called “laser scanning” or “3D scanning.” The technology uses eye-safe laser beams to create a 3D representation of the surveyed environment. This helps in navigation as well as analyzing the surrounding terrains and thus aids in the research part of the rover mission.
+</p>
 
-
-![Lidar sensor](Images%20and%20Videos/Images/LIDAR%20sensor.png)
+<p align="center">
+<img src="Images%20and%20Videos/Images/LIDAR%20sensor.png" alt="LIDAR Sensor">
+ <i> LIDAR Sensor</i>
+</p>
 
 2. **Mast Cam:**
+<p align="justify">
 The Mast Cam mounted over the chassis is used to get high definition videos and 3D-images of the surroundings which can be used for research purposes. It also has high zoom focus which can help in detailed examination of distant objects.
+ </p>
 
 3. **Robotic arm camera:**
+<p align="justify">
 A small camera is mounted on of the three modules of the robotic arm to assist in its motion and guide the drill to the required position. This makes teh collection of data sample more precise and accurate.
+</p>
 
 ### Actuators
 1. **DC motors:**
