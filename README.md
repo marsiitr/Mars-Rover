@@ -137,6 +137,35 @@ We did an extensive research on the previously sent Mars Rovers and extracted de
 
 **This is the link of our initial research doc:** https://docs.google.com/document/d/1-jrgd7fFMnukzN-lmV8PeAjKU0p7QLTJImEPwY9DrF8/edit
 
+## Cost Structure
+
+| Components | Cost (in INR) |
+|:----------------------------------:|:------------:|
+| ABS plastic for 3d printing  | 9000 |
+| T-slot Aluminium Extrussion | 360 |
+| Battery  | 1985|
+| Camera| 1500 |
+| Stepper motors  | 725 |
+| DC motors  | 3800 |
+| Servo motors| 11250 |
+| Servo horns | 375 |
+| End joints | 800 |
+| Nut and Bolts | 700 |
+| Bearings | 900 |
+| Lidar | 4850  |
+| 4 thrust roller bearings| 3800 |
+| Double acting mini pneumatic cylinder | 3600 |
+| Single piston air compressor | 16000|
+| Pneumatic tubing| 950 |
+| Dc motor for drill: 15volt 11 watt | 3900 |
+| Base servo motor 15volt 0.44 Ncm torque | 20000  |
+| Joint servo motor 15volt 0.44 Ncm torque |20000|
+| Disc servo motor 12volt 2.9 watt| 9000 |
+| Camera | 1250 |
+| Sampler mechanism 5volt servo motor | 2500 |
+| Miscellaneous | 1500 |
+|Total Cost| 118745  |
+
 ## Applications
 1. The rover can be used to research the areas with highly uneven terrains and surfaces with ease due to its Rocker bogie suspension system.
 2. It is equipped with a robotic arm and drill which enables sample data collection and storage.
